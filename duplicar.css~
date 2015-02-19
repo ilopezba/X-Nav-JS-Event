@@ -1,9 +1,0 @@
-form {
-    float: left;
-}
-
-#visor{
-    float: left;
-    height: 300px;
-    width: 500px;
-}
